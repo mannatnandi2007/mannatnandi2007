@@ -16,18 +16,18 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
-- 🎓 I'm a **3rd year Computer Science Engineering student**
-- 📚 Currently upskilling in **DSA** and **Agentic AI Systems**
-- 🤖 Learning **AI/ML** in depth
-- 🚀 Currently working on **YUVAA Saarthi** — a youth well-being AI companion app
-- ⚡ I enjoy vibe-coding with AI agents and wiring up backend integrations
-- 🔭 Comfortable working across the stack — from frontend polish to backend logic
+-  I'm a **3rd year Computer Science Engineering student**
+-  Currently upskilling in **DSA** and **Agentic AI Systems**
+-  Learning **AI/ML** in depth
+-  Currently working on **YUVAA Saarthi** — a youth well-being AI companion app
+-  I enjoy vibe-coding with AI agents and wiring up backend integrations
+-  Comfortable working across the stack — from frontend polish to backend logic
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -47,18 +47,18 @@
 
 ---
 
-### 🚧 Currently Building — YUVAA Saarthi
+### Currently Building — YUVAA Saarthi
 
 **YUVAA Saarthi** is a youth well-being AI companion web app. It offers AI-driven chat support for mental health, reproductive health, and relationship concerns, with built-in **crisis (extreme-point) detection** that automatically alerts emergency contacts via call and SMS when a user is at risk.
 
-- 🧠 AI companion chat tuned for youth well-being topics, with Hinglish/code-switching support
-- 🚨 Crisis detection pipeline that escalates to prioritized emergency contacts (call + SMS)
-- 🛟 Abuse-aware routing — sensitive cases are directed to counselor/helpline resources instead of personal contacts
-- 👥 Built with a 4-person team, with my role as an all-rounder and reviewer across the stack
+-  AI companion chat tuned for youth well-being topics, with Hinglish/code-switching support
+-  Crisis detection pipeline that escalates to prioritized emergency contacts (call + SMS)
+-  Abuse-aware routing — sensitive cases are directed to counselor/helpline resources instead of personal contacts
+-  Built with a 4-person team, with my role as an all-rounder and reviewer across the stack
 
 ---
 
-### 📊 GitHub Snake Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mannatnandi2007/mannatnandi2007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 <p align="left">
   <a href="https://mannatnandi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2EA1F8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
