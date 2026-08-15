@@ -52,19 +52,17 @@
 **YUVAA Saarthi** is a youth well-being AI companion web app. It offers AI-driven chat support for mental health, reproductive health, and relationship concerns, with built-in **crisis (extreme-point) detection** that automatically alerts emergency contacts via call and SMS when a user is at risk.
 
 - 🧠 AI companion chat tuned for youth well-being topics, with Hinglish/code-switching support
-- 🚨 Crisis detection pipeline that escalates to prioritized emergency contacts (call)
+- 🚨 Crisis detection pipeline that escalates to prioritized emergency contacts (call + SMS)
 - 🛟 Abuse-aware routing — sensitive cases are directed to counselor/helpline resources instead of personal contacts
-- 👥 Building with a 4-person team, with my role as an leader,reviewer and AI engineer across the stack
+- 👥 Built with a 4-person team, with my role as an all-rounder and reviewer across the stack
 
 ---
 
 ### 📊 GitHub Snake Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<mannatnandi2007>/<mannatnandi2007>/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mannatnandi2007/mannatnandi2007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-> ⚠️ Replace `<your-username>` above with your GitHub username once the snake workflow (included separately) has run at least once and generated the SVG.
 
 ---
 
@@ -72,9 +70,9 @@
 
 <p align="left">
   <a href="https://mannatnandi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2EA1F8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:mannat.workwithme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mannat-nandi-883917350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mannatnandi2007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
