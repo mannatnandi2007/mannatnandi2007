@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://mannatnandi.vercel.app">
     <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-2EA1F8?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -78,5 +78,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mannatnandi2007&color=blue" alt="Profile views" />
 </p>
